@@ -1,0 +1,11 @@
+OBJECT_SHARED Models/Communications/radio-medium.xml 13.2966667 54.4761111 -124.36 180
+OBJECT_SHARED Models/Industrial/generic_chimney_01.xml 13.4158333 54.4230556 -400.35 180
+OBJECT_SHARED Models/Industrial/generic_chimney_01.xml 13.4205556 54.4011111 -410.28 180
+OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.xml 13.4486 54.4837 1.73 41.05
+OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.xml 13.44994 54.4968517 -0.83 247.17
+OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml 13.4498873 54.4761883 0.49 95.36
+OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml 13.4499984 54.478438 0.8 100.62
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac 13.449377 54.4759748 0.55 290.72
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac 13.4508187 54.4749195 0.35 41.06
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac 13.4515348 54.474939 0.19 165.78
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-North.ac 13.4504962 54.4752497 0.38 71.34

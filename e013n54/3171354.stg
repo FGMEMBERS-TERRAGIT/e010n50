@@ -1,0 +1,5 @@
+OBJECT_SHARED Models/Communications/radio-medium.xml 13.5461111 54.3944444 -125.93 180
+OBJECT_SHARED Models/Industrial/generic_chimney_01.xml 13.5730556 54.4955556 -363.05 180
+OBJECT_SHARED Models/Industrial/generic_chimney_01.xml 13.5911111 54.4122222 -360.72 180
+OBJECT_SHARED Models/Maritime/Misc/Buoy-IsolatedDanger.ac 13.624167 54.402383 -0.04 226.33
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac 13.6312291 54.4979243 -0.79 237.11
