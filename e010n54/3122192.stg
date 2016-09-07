@@ -15,6 +15,8 @@ OBJECT_SHARED Models/Industrial/generic_chimney_01.xml 10.1344444 54.3663889 -38
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml 10.1772222 54.3386111 -365.54 180
 OBJECT_SHARED Models/Misc/generic_church_02.ac 10.14 54.3227778 6.14 180
 OBJECT_SHARED Models/Communications/Telekom_Turm_Kiel_Muenster_Cuxhaven_Bremen.xml 10.1177778 54.3005556 43.02 0
+OBJECT_SHARED Models/Maritime/Misc/odense_staalskibsvaerfts_kran.xml 10.1484043 54.3194847 -31.85 288
+OBJECT_SHARED Models/Maritime/Misc/odense_staalskibsvaerfts_kran.xml 10.1526488 54.3222408 0.92 104
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 10.0011778 54.3158355 17.16 85.89
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 10.0018988 54.3216929 12.9 86.1
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 10.0023108 54.3254221 10.68 65.02

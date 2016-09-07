@@ -46,3 +46,5 @@ OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac 10.8084304 53.9948735
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Safe-Water.ac 10.9457881 53.9975156 -1.45 323.34
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-North.ac 10.8637 53.9368 -0.11 81.32
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-East.ac 10.912403 53.9982034 -2.62 84.12
+OBJECT_SHARED Models/Misc/strandkorb.ac 10.882591 53.963585 1.67 124
+OBJECT_STATIC TravemuendeMaritim.ac 10.881658 53.96201 6.63 113
