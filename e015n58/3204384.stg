@@ -1,0 +1,5 @@
+OBJECT_SHARED Models/Power/windturbine.xml 15.1633333 58.5058333 104.71 180
+OBJECT_SHARED Models/Communications/radio-medium.xml 15.1138889 58.6005556 87.33 180
+OBJECT_SHARED Models/Communications/radio-tall.xml 15.0958333 58.5883333 -109.27 180
+OBJECT_SHARED Models/Power/generic_pylon_200m.ac 15.0425 58.5461111 52.59 180
+OBJECT_SHARED Models/Power/generic_pylon_200m.ac 15.0447222 58.5444444 50.43 180
