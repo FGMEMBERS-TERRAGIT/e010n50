@@ -2,13 +2,3 @@ OBJECT_SHARED Models/Airport/ndb.ac 10.829461 59.36885 29.29 180
 OBJECT_SHARED Models/Airport/ils.xml 10.803958 59.372811 52.69 61.76
 OBJECT_SHARED Models/Airport/marker.ac 10.821481 59.369492 56.95 180
 OBJECT_SHARED Models/Airport/marker.ac 10.917469 59.344203 72.51 180
-# dsf2stg
-# do not edit below this line
-#
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 10.78913 59.37423 58.22 150
-OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 10.78969 59.37398 59.30 90
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 10.79005 59.37413 58.92 90
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 10.78874 59.37419 58.06 240
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 10.78892 59.37441 57.26 270
-OBJECT_SHARED Models/Aircraft/Citation-II-Type2.ac 10.78895 59.37386 59.45 0
-# END dsf2stg

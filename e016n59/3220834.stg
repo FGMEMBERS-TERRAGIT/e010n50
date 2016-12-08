@@ -3,14 +3,3 @@ OBJECT_SHARED Models/Communications/vordme_1.xml 16.635278 59.598611 10.45 180
 OBJECT_SHARED Models/Communications/vordme_1.xml 16.650389 59.586194 7.03 180
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml 16.5133333 59.5883333 -340.23 180
 OBJECT_SHARED Models/Airport/localizer.xml 16.628194 59.575917 5.52 278.55
-# dsf2stg
-# do not edit below this line
-#
-OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 16.50219 59.58152 13.18 122.01
-OBJECT_SHARED Models/lib/SmHangar.ac 16.50233 59.58190 13.49 115.2
-OBJECT_SHARED Models/lib/hangarUL10x30.ac 16.50272 59.58217 14.37 24.78
-OBJECT_SHARED Models/lib/hangarUL10x30.ac 16.50359 59.58183 12.85 68.75
-OBJECT_SHARED Models/lib/MedHangar.ac 16.50159 59.58156 14.16 115.97
-OBJECT_SHARED Models/lib/SmHangar.ac 16.50097 59.58111 15.00 121.37
-OBJECT_SHARED Models/lib/SmHangar.ac 16.50005 59.58087 17.19 122.15
-# END dsf2stg
