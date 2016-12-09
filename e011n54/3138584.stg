@@ -69,3 +69,11 @@ OBJECT_SHARED Models/Maritime/Misc/Buoy-Safe-Water.ac 11.1734572 54.3768473 -1.1
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-North.ac 11.02067 54.38983 -0.39 118.9
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-South.ac 11.1952723 54.4060674 -0.06 329.93
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-East.ac 11.03183 54.382 -0.25 12.24
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 11.11472 54.45544 6.77 161.83
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 11.11489 54.45542 6.73 161.83
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 11.11464 54.45546 6.76 161.83
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 11.11476 54.45521 6.83 69.53
+# END dsf2stg

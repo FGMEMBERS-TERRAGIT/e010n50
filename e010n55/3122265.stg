@@ -131,3 +131,9 @@ OBJECT_SHARED Models/Commercial/Petrolstation1.ac 10.414771 55.393237 10.91 180
 OBJECT_SHARED Models/Residential/city_triangle_module.xml 10.377177 55.398733 13.44 180
 OBJECT_STATIC fynsvaerket.xml 10.4097737 55.4290868 7.89 96
 OBJECT_STATIC bg_bank_odense.xml 10.389419 55.396869 15.96 225
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/MedHangar.ac 10.32592 55.47171 13.39 302.031
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 10.32808 55.47295 13.71 29.672
+# END dsf2stg

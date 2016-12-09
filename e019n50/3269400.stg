@@ -4,3 +4,10 @@ OBJECT_SHARED Models/Airport/ils.xml 19.089147 50.475578 296.55 90.38
 OBJECT_SHARED Models/Airport/marker.ac 19.107444 50.474147 309.03 180
 OBJECT_SHARED Models/Airport/marker.ac 19.204486 50.473958 297.29 180
 OBJECT_SHARED Models/Airport/localizer.xml 19.049011 50.474317 292.6 0.18
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/water-tower-150-red-white.xml 19.08271 50.48091 293.49 180
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 19.06888 50.46967 202.90 274.4
+OBJECT_SHARED Models/Industrial/generic_tank_005m_grey.ac 19.06862 50.46971 202.61 180
+# END dsf2stg

@@ -26,3 +26,13 @@ OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-East.ac 11.5954082 54.9066532 -
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-East.ac 11.6252069 54.9739574 -2.38 353.41
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-East.ac 11.7469054 54.8786647 -0.03 232.16
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-West.ac 11.641812 54.975086 -2.69 204.14
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 11.53303 54.98139 14.64 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 11.53298 54.98140 14.64 0
+OBJECT_SHARED Models/Misc/picnic_table.ac 11.53302 54.98137 14.64 0
+OBJECT_SHARED Models/Misc/picnic_table.ac 11.53297 54.98139 14.64 0
+OBJECT_SHARED Models/Misc/picnic_table.ac 11.53290 54.98141 14.59 0
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 11.53291 54.98142 14.59 0
+# END dsf2stg

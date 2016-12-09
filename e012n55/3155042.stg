@@ -61,3 +61,10 @@ OBJECT_SHARED Models/Airport/apt-light.xml 12.672681 55.615986 1.21 180
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac 12.739702 55.5205806 -1.63 189.47
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-South.ac 12.7118448 55.53546 -2.2 3.83
 OBJECT_STATIC koebenhavns_lufthavn__kastrups_kontroltaarn.xml 12.657511 55.611787 2.84 270
+# dsf2stg
+# do not edit below this line
+#
+#OBJECT_SHARED Models/Airport/Jetway/jetway.xml 12.64953 55.62499 2.71 293.67
+#OBJECT_SHARED Models/Airport/Jetway/jetway.xml 12.64994 55.62493 2.66 115.33
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml 12.65748 55.61187 2.82 0
+# END dsf2stg
