@@ -42,3 +42,12 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac 18.2402906 59.5663263 19.98 101.
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 18.240943 59.5768436 44.21 60.7
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 18.2437154 59.579266 47.71 57.47
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 18.2470043 59.5816469 54.9 53.97
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/shed8x10.ac 18.16419 59.58572 34.60 235.492
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 18.16447 59.58591 34.21 52.4326
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac 18.16394 59.58558 34.49 324.08
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 18.16310 59.58554 33.33 334.984
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 18.16272 59.58560 31.97 161.566
+# END dsf2stg

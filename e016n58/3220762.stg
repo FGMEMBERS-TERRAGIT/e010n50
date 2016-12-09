@@ -1,2 +1,9 @@
 OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml 16.6074707 58.4418057 -0.01 157.09
 OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml 16.7038155 58.4221458 -0.04 193.52
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/propane-tank.ac 16.60412 58.43446 0.00 90
+OBJECT_SHARED Models/Aircraft/Zlin50xl_low_poly.xml 16.60469 58.43442 0.00 196.19
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml 16.60444 58.43439 0.00 13.71
+# END dsf2stg
