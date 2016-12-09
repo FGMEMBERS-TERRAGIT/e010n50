@@ -23,6 +23,7 @@ OBJECT_SHARED Models/Communications/radio-medium.xml 12.4458333 54.2380556 -98.6
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml 12.2744444 54.1711111 -409.97 180
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml 12.3113889 54.1358333 -326.8 180
 OBJECT_SHARED Models/Misc/generic_church_02.ac 12.4305556 54.2436111 10.3 180
+OBJECT_SHARED Models/Airport/GenericFuelStore3.ac 12.2543642 54.1593546 20.03 280
 OBJECT_SHARED Models/Communications/fernmeldeturm_gruenwettersbach.xml 12.4458333 54.2380556 -399.64 180
 # dsf2stg
 # do not edit below this line
@@ -92,3 +93,18 @@ OBJECT_SHARED Models/lib/lamp10m.xml 12.25389 54.15897 20.04 120.89
 OBJECT_SHARED Models/lib/lamp10m.xml 12.25372 54.15919 19.97 206.92
 OBJECT_SHARED Models/lib/lamp10m.xml 12.25326 54.15904 19.96 207.18
 # END dsf2stg
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac 12.2519591 54.159046 19.81 280
+OBJECT_SHARED Models/Airport/switch_control_cabinet.ac 12.2542045 54.1593498 20.01 280
+OBJECT_SHARED Models/Airport/sign_achtung_landeanlage.xml 12.2538928 54.1592654 19.98 312
+OBJECT_SHARED Models/Airport/sign_achtung_landeanlage.xml 12.2549289 54.1594462 20.13 312
+OBJECT_SHARED Models/Aircraft/DR400-orange.xml 12.2524179 54.1596253 19.7 0
+OBJECT_SHARED Models/Aircraft/ask21-low-poly-blue.xml 12.2534526 54.1594847 19.86 0
+OBJECT_SHARED Models/Aircraft/ask21-low-poly-blue.xml 12.2541322 54.1595239 19.95 20
+OBJECT_SHARED Models/Aircraft/ask21-low-poly-blue.xml 12.2543842 54.1598808 19.89 168
+OBJECT_SHARED Models/Aircraft/ask21-low-poly-blue.xml 12.2546141 54.1595613 20.03 344
+OBJECT_SHARED Models/Aircraft/ask21-low-poly-blue.xml 12.2551786 54.1598367 20.06 240
+OBJECT_SHARED Models/Aircraft/glider-trailer-open.ac 12.2532763 54.1592568 19.9 0
+OBJECT_SHARED Models/Aircraft/glider-trailer-open.ac 12.2538841 54.1594502 19.93 288
+OBJECT_SHARED Models/Airport/hang42x29m.ac 12.2516592 54.1588777 19.82 280
+OBJECT_SHARED Models/Airport/hang31x21m.ac 12.2538208 54.1592902 19.97 280
+OBJECT_SHARED Models/Airport/hang31x21m.ac 12.2547856 54.1594046 20.11 280
