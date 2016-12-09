@@ -69,3 +69,4 @@ OBJECT_SHARED Models/Maritime/Misc/Buoy-Safe-Water.ac 11.1734572 54.3768473 -1.1
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-North.ac 11.02067 54.38983 -0.39 118.9
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-South.ac 11.1952723 54.4060674 -0.06 329.93
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-East.ac 11.03183 54.382 -0.25 12.24
+OBJECT_STATIC Fehmarnsundbruecke.ac 11.109061 54.396503 0 159

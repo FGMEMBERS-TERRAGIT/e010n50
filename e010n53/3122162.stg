@@ -4,7 +4,6 @@ OBJECT_SHARED Models/Power/windturbine.xml 10.5922222 53.8075 13.99 180
 OBJECT_SHARED Models/Airport/ils.xml 10.709375 53.804842 13.69 286.66
 OBJECT_SHARED Models/Airport/ils.xml 10.727386 53.807692 13.83 106.67
 OBJECT_SHARED Models/Communications/radio-medium.xml 10.6883333 53.8580556 -125.04 180
-OBJECT_SHARED Models/Communications/radio-medium.xml 10.7011111 53.8130556 -129.62 180
 OBJECT_SHARED Models/Communications/vordme_1.xml 10.718631 53.806392 13.82 180
 OBJECT_SHARED Models/Airport/marker.ac 10.692903 53.800256 12.13 180
 OBJECT_SHARED Models/Airport/marker.ac 10.744392 53.810208 9.79 180
