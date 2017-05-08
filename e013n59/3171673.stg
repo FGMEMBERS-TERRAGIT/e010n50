@@ -11,5 +11,5 @@ OBJECT_SHARED Models/Airport/localizer.xml 13.34925 59.457306 110.52 115.63
 # dsf2stg
 # do not edit below this line
 #
-OBJECT_SHARED Models/lib/office65x50.ac 13.48027 59.37780 49.08 202.97
+OBJECT_SHARED Models/lib/office65x50.ac 13.48027 59.37780 50.25 202.97
 # END dsf2stg
