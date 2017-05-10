@@ -67,7 +67,7 @@ OBJECT_SHARED Models/Industrial/GenericPressureVessel10m.xml 10.383217 55.42312 
 OBJECT_SHARED Models/Industrial/GenericPressureVessel10m.xml 10.383282 55.422858 3.12 180
 OBJECT_SHARED Models/Industrial/GenericPressureVessel20m.xml 10.38119 55.419186 2.64 180
 OBJECT_SHARED Models/Industrial/GenericPressureVessel20m.xml 10.383518 55.423047 3.35 180
-OBJECT_SHARED Models/Airport/localizer.xml 10.309692 55.469631 12.48 329.7
+OBJECT_SHARED Models/Airport/localizer.xml 10.309692 55.469631 12.48 118.79
 OBJECT_SHARED Models/Misc/generic_castle.xml 10.33012 55.472554 13.72 45
 OBJECT_SHARED Models/Misc/generic_castle.xml 10.386608 55.398691 15.95 180
 OBJECT_SHARED Models/Misc/generic_castle.xml 10.388957 55.395943 15.08 180

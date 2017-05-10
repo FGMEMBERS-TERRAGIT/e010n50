@@ -111,5 +111,6 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac 17.7201107 59.8830626 22.45 109.
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 17.721896 59.8804871 21.72 109.08
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 17.7236384 59.8779458 22.24 109.37
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 17.7249859 59.8760634 29.91 109.48
-OBJECT_SHARED Models/Airport/hangar_barn.ac 17.53192037 59.9259356 23.49 128
-OBJECT_SHARED Models/Residential/smallhouse_sweden.ac 17.53165854 59.9258607 22.91 308
+OBJECT_SHARED Models/Airport/hangar_barn.ac 17.5294 59.9253 23.38 316
+OBJECT_SHARED Models/Airport/hangar_barn.ac 17.53075 59.92624 24.19 128
+OBJECT_SHARED Models/Residential/smallhouse_sweden.ac 17.5304 59.926 24.06 308

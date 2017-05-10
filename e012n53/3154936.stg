@@ -4,4 +4,4 @@ OBJECT_SHARED Models/Communications/radio-medium.xml 12.1719444 53.9466667 -105.
 OBJECT_SHARED Models/Airport/marker.ac 12.159667 53.9275 31.54 180
 OBJECT_SHARED Models/Airport/marker.ac 12.2465 53.920667 39.63 180
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml 12.1233333 53.9377778 -403.56 180
-OBJECT_SHARED Models/Airport/localizer.xml 12.247833 53.920667 40 7.98
+OBJECT_SHARED Models/Airport/localizer.xml 12.247833 53.920667 40 81.16

@@ -4,7 +4,7 @@ OBJECT_SHARED Models/Airport/tacan.xml 12.286333 53.919833 36.18 180
 OBJECT_SHARED Models/Communications/radio-medium.xml 12.3147222 53.9386111 -97.28 180
 OBJECT_SHARED Models/Airport/marker.ac 12.3135 53.915333 31.34 180
 OBJECT_SHARED Models/Airport/marker.ac 12.412333 53.907333 44.77 180
-OBJECT_SHARED Models/Airport/localizer.xml 12.312167 53.9155 32.45 187.79
+OBJECT_SHARED Models/Airport/localizer.xml 12.312167 53.9155 32.45 261.14
 OBJECT_SHARED Models/Military/hard-top3-sand.xml 12.2686124 53.9217186 38.01 260.8
 OBJECT_SHARED Models/Military/hard-top3-sand.xml 12.2703896 53.9215744 37.9 260.8
 OBJECT_SHARED Models/Military/hard-top3-sand.xml 12.2718326 53.9214585 37.81 260.8

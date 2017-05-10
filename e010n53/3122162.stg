@@ -12,8 +12,8 @@ OBJECT_SHARED Models/Commercial/generic_skyscraper_07.ac 10.6855556 53.8677778 -
 OBJECT_SHARED Models/Commercial/generic_skyscraper_07.ac 10.6886111 53.87 -373.43 180
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml 10.6636111 53.8747222 -425.07 180
 OBJECT_SHARED Models/Industrial/Gasometer.ac 10.6725 53.8491667 12.42 180
-OBJECT_SHARED Models/Airport/localizer.xml 10.700319 53.801683 13.26 288
-OBJECT_SHARED Models/Airport/localizer.xml 10.734925 53.808339 12.72 162.14
+OBJECT_SHARED Models/Airport/localizer.xml 10.700319 53.801683 13.26 106.6
+OBJECT_SHARED Models/Airport/localizer.xml 10.734925 53.808339 12.72 286.66
 OBJECT_SHARED Models/Misc/generic_church_03.ac 10.6894444 53.8638889 12.5 180
 OBJECT_SHARED Models/Airport/SimpleFuelPump.xml 10.7005615 53.8036265 13.01 225
 OBJECT_SHARED Models/Airport/SimpleFuelPump.xml 10.7006135 53.8035992 13.01 225
