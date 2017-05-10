@@ -1,3 +1,4 @@
+OBJECT_SHARED Models/Airport/ndb.ac 13.386669 52.345008 41.73 0
 OBJECT_SHARED Models/Power/windturbine.xml 13.2505556 52.3580556 44.3 180
 OBJECT_SHARED Models/Power/windturbine.xml 13.2511111 52.3311111 45.14 180
 OBJECT_SHARED Models/Power/windturbine.xml 13.2516667 52.3555556 43.97 180
@@ -19,7 +20,7 @@ OBJECT_SHARED Models/Airport/marker.ac 13.471044 52.3644 38.25 180
 OBJECT_SHARED Models/Commercial/generic_skyscraper_02.ac 13.4775 52.3622222 -379.4 180
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml 13.2641667 52.3252778 -356.97 180
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml 13.4055556 52.3227778 -398.15 180
-OBJECT_SHARED Models/Airport/localizer.xml 13.478117 52.36605 40.14 338.75
+OBJECT_SHARED Models/Airport/localizer.xml 13.478117 52.36605 40.14 110.39
 OBJECT_SHARED Models/Power/generic_power_plant.xml 13.2772222 52.3136111 41.92 72.68
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 13.2529676 52.3331891 46.87 197.7
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 13.2538097 52.3444464 45 184.76

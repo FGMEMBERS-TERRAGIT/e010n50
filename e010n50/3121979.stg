@@ -14,8 +14,8 @@ OBJECT_SHARED Models/Airport/marker.ac 10.989872 50.977269 267.88 180
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml 10.8466667 50.8925 -157.96 180
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml 10.8938889 50.9583333 -152.36 180
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml 10.9863889 50.9302778 -207.24 180
-OBJECT_SHARED Models/Airport/localizer.xml 10.935517 50.981614 297.07 7.68
-OBJECT_SHARED Models/Airport/localizer.xml 10.979419 50.978106 301.42 187.72
+OBJECT_SHARED Models/Airport/localizer.xml 10.935517 50.981614 297.07 81.56
+OBJECT_SHARED Models/Airport/localizer.xml 10.979419 50.978106 301.42 261.54
 OBJECT_SHARED Models/Airport/Jetway/jetway-20.xml 10.9609877 50.9748369 310.08 32
 OBJECT_SHARED Models/Airport/Jetway/jetway-30r.xml 10.9606329 50.9747028 309.91 81.5
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 10.7524411 50.9796383 291.26 346.78

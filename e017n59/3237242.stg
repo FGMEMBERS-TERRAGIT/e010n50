@@ -134,3 +134,6 @@ OBJECT_SHARED Models/Aircraft/Cessna172_yellow.ac 17.52981 59.92015 0.00 118.74
 OBJECT_SHARED Models/lib/SmHangar.ac 17.53062 59.92046 -0.00 116.552
 OBJECT_SHARED Models/lib/SmHangar.ac 17.52923 59.92009 0.00 117.149
 # END dsf2stg
+OBJECT_SHARED Models/Airport/hangar_barn.ac 17.5294 59.9253 23.38 316
+OBJECT_SHARED Models/Airport/hangar_barn.ac 17.53075 59.92624 24.19 128
+OBJECT_SHARED Models/Residential/smallhouse_sweden.ac 17.5304 59.926 24.06 308

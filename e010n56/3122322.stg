@@ -80,3 +80,5 @@ OBJECT_SHARED Models/StreetFurniture/trash-container.ac 10.62554 56.30818 21.20 
 OBJECT_SHARED Models/lib/stack_of_cones.ac 10.62286 56.30792 20.80 0
 OBJECT_SHARED Models/lib/propane-tank.ac 10.62290 56.30792 20.80 78.4145
 # END dsf2stg
+OBJECT_SHARED Models/Airport/localizer.xml 10.59045 56.306211 27.87 78.77
+OBJECT_SHARED Models/Airport/localizer.xml 10.647503 56.300453 24.51 257.4

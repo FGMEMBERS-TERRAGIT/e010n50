@@ -1,6 +1,8 @@
+OBJECT_SHARED Models/Airport/ils.xml 14.163195 53.875518 21.88 75
 OBJECT_SHARED Models/Communications/radio-medium.xml 14.0169444 53.9116667 -112.62 180
 OBJECT_SHARED Models/Communications/radio-medium.xml 14.0736111 53.9230556 -113.91 180
 OBJECT_SHARED Models/Communications/vordme_1.xml 14.131038 53.882256 17.57 180
+OBJECT_SHARED Models/Communications/vordme_1.xml 14.150975 53.878048 20.8 0
 OBJECT_SHARED Models/Commercial/generic_skyscraper_06.ac 14.1466667 53.9644444 -432 180
 # dsf2stg
 # do not edit below this line
@@ -70,3 +72,4 @@ OBJECT_SHARED Models/lib/6space_wStop.ac 14.13831 53.87890 18.38 62.9732
 OBJECT_SHARED Models/lib/6space_wStop.ac 14.13858 53.87882 18.51 63.4347
 OBJECT_SHARED Models/lib/6space_wStop.ac 14.13808 53.87859 18.60 243.652
 # END dsf2stg
+OBJECT_SHARED Models/Airport/localizer.xml 14.130789 53.882248 17.48 75

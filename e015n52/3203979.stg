@@ -82,3 +82,4 @@ OBJECT_SHARED Models/lib/MedHangar.ac 15.79693 52.14241 58.78 113.63
 OBJECT_SHARED Models/lib/cars14.ac 15.80128 52.14465 59.79 200
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml 15.80160 52.14464 59.59 289.5
 # END dsf2stg
+OBJECT_SHARED Models/Communications/VOR-DME_3.ac 15.8007 52.140923 57.11 0

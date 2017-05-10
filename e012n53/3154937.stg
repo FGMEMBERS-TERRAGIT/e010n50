@@ -53,6 +53,7 @@ OBJECT_SHARED Models/lib/LgMaint.ac 12.28089 53.92167 37.33 82.75
 OBJECT_SHARED Models/lib/LgMaint.ac 12.27758 53.92152 37.22 84.05
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml 12.28085 53.91504 41.94 352.06
 # END dsf2stg
+OBJECT_SHARED Models/Airport/localizer.xml 12.312167 53.9155 32.45 261.14
 OBJECT_SHARED Models/Military/hard-top3-sand.xml 12.2686124 53.9217186 38.01 260.8
 OBJECT_SHARED Models/Military/hard-top3-sand.xml 12.2703896 53.9215744 37.9 260.8
 OBJECT_SHARED Models/Military/hard-top3-sand.xml 12.2718326 53.9214585 37.81 260.8

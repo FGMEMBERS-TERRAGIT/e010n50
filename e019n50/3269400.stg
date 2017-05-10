@@ -107,3 +107,4 @@ OBJECT_SHARED Models/Aircraft/crj100af-obj.xml 19.07340 50.47170 297.40 175.24
 OBJECT_SHARED Models/Aircraft/crj100af-obj.xml 19.07601 50.47178 297.93 180
 OBJECT_SHARED Models/Aircraft/320volare.xml 19.07144 50.47178 296.94 180
 # END dsf2stg
+OBJECT_SHARED Models/Airport/localizer.xml 19.049011 50.474317 292.6 90.38

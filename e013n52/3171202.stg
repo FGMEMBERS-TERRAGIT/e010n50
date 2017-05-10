@@ -1,5 +1,4 @@
 OBJECT_SHARED Models/Communications/radio-medium.xml 13.6480556 52.0761111 -68.66 180
-OBJECT_SHARED Models/Communications/vordme_1.xml 13.563414 52.019353 55.84 180
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 13.5267407 52.0783473 68.21 154.6
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 13.5283714 52.1235523 44.9 117.92
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 13.5309378 52.1205696 57.5 117.59
@@ -27,4 +26,5 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac 13.6592204 52.0048755 52.92 157.
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 13.6640274 52.0036424 53.75 157.01
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 13.6685227 52.0024476 52.02 156.59
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 13.6733857 52.001148 54.07 156.75
+OBJECT_SHARED Models/Communications/VOR-DME_3.ac 13.563414 52.019353 55.84 180
 OBJECT_STATIC tropical_islands_resort.ac 13.7486 52.0375 77.46 0

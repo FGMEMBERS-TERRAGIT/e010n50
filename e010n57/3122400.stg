@@ -1,3 +1,4 @@
+OBJECT_SHARED Models/Airport/ndb.ac 10.150691 57.500781 42.51 0
 OBJECT_SHARED Models/Power/windturbine.xml 10.0133663 57.5503085 30.68 180
 OBJECT_SHARED Models/Power/windturbine.xml 10.0147884 57.5521746 30.74 180
 OBJECT_SHARED Models/Power/windturbine.xml 10.0175319 57.5504817 33.34 180
@@ -52,3 +53,4 @@ OBJECT_SHARED Models/lib/SmHangar.ac 10.23046 57.50482 26.00 181.89
 OBJECT_SHARED Models/Aircraft/Citation-II-Type1.ac 10.22973 57.50455 25.92 184.4
 OBJECT_SHARED Models/Aircraft/Cessna172_blue.ac 10.23055 57.50482 26.00 93.12
 # END dsf2stg
+OBJECT_SHARED Models/Airport/localizer.xml 10.216825 57.503083 118.75 92.94

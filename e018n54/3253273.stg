@@ -216,3 +216,4 @@ OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 18.47285 54.37882 138.00 0
 OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml 18.47156 54.37914 137.57 0
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml 18.47864 54.38064 140.67 169.57
 # END dsf2stg
+OBJECT_SHARED Models/Airport/localizer.xml 18.446156 54.382522 132.99 67

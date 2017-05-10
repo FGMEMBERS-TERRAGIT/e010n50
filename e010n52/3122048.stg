@@ -11,3 +11,5 @@ OBJECT_SHARED Models/Power/windturbine.xml 10.1919444 52.08 137.14 180
 OBJECT_SHARED Models/Power/windturbine.xml 10.1933333 52.0825 145.04 180
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml 10.0047222 52.0602778 -252.23 180
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml 10.1241667 52.0130556 -326.49 180
+OBJECT_SHARED Models/Power/windturbine_V112_onshore.xml 10.0513528 52.1185806 284.33 0
+OBJECT_SHARED Models/Power/windturbine_V112_onshore.xml 10.05505 52.1167528 273.6 0
