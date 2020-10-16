@@ -19,6 +19,16 @@ OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml 15.1328045 56.1436867 -0.14 253.9
 OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml 15.145402 56.1413386 -0.32 96.75
 OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml 15.2082569 56.144507 -0.3 64.09
 OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml 15.2423232 56.1535185 -0.07 61.59
+OBJECT_SHARED Models/Communications/mil-antena-118m.xml 15.157222222 56.2 -3.44 180
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac 15.2366236 56.1472828 -0.23 301.56
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-North.ac 15.0345403 56.1427871 -0.34 118.65
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-North.ac 15.1206401 56.1360068 -1.7 352.62
+OBJECT_SHARED Models/Power/windturbine_V112_onshore.xml 15.098055556 56.169722222 125.42 180
+OBJECT_SHARED Models/Power/windturbine_V112_onshore.xml 15.1475 56.195833333 126.72 180
+OBJECT_SHARED Models/Power/windturbine_V112_onshore.xml 15.148333333 56.203611111 144.36 180
+OBJECT_SHARED Models/Power/windturbine_V112_onshore.xml 15.155833333 56.205277778 154.89 180
+OBJECT_SHARED Models/Power/windturbine_V112_onshore.xml 15.156666667 56.200555556 140.9 180
+OBJECT_SHARED Models/Power/windturbine_V112_onshore.xml 15.163055556 56.198333333 135.25 180
+OBJECT_SHARED Models/Power/windturbine_V112_onshore.xml 15.164722222 56.203611111 139.9 180
+OBJECT_SHARED Models/Power/windturbine_V112_onshore.xml 15.171111111 56.199722222 139.88 180
+OBJECT_SHARED Models/Power/windturbine_V112_onshore.xml 15.175 56.206388889 140.56 180

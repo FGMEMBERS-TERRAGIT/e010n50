@@ -1,3 +1,4 @@
+OBJECT_SHARED Models/Communications/radio-medium.xml 15.601666667 56.174166667 -39.86 180
 OBJECT_SHARED Models/Power/generic_pylon_200m.ac 15.6013889 56.1741667 -42.29 180
 OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.xml 15.5441104 56.1902555 0 16.35
 OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.xml 15.5446339 56.1899 0 293.59
@@ -69,6 +70,7 @@ OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml 15.6490746 56.134012 -0.18 183.46
 OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml 15.6740859 56.1257022 -0.12 126.59
 OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml 15.7449184 56.1405157 -0.01 336.84
 OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml 15.7478756 56.1392458 0 343.77
+OBJECT_SHARED Models/Communications/mil-antena-118m.xml 15.6375 56.161666667 -48.66 180
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac 15.5846299 56.1478302 -0.16 243.91
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac 15.5997733 56.1630228 -0.01 331.39
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-North.ac 15.5190907 56.1473484 -0.19 301.98
@@ -82,3 +84,5 @@ OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-South.ac 15.6279187 56.1628351 
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-West.ac 15.5557861 56.1568971 -0.18 91.67
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-West.ac 15.5646372 56.1541327 -0.16 244.03
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-West.ac 15.6404336 56.133835 -0.09 294.49
+OBJECT_SHARED Models/Power/wtD90T105m.xml 15.744444444 56.185277778 104.19 180
+OBJECT_SHARED Models/Power/wtD90T105m.xml 15.749166667 56.181944444 99.05 180

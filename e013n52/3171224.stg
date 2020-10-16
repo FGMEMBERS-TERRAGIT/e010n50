@@ -203,3 +203,4 @@ OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Yellow.ac 13.1962981 52.4709
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Yellow.ac 13.178304 52.453489 26.98 103.92
 OBJECT_STATIC FunkturmSchaeferberg.xml 13.12750062 52.4175004 100.83 83.2
 OBJECT_STATIC SchaeferbergTurmKlein.xml 13.12710057 52.4180041 103.7 15.1
+OBJECT_STATIC TeufelsbergRadarstation.ac 13.24051833 52.4974172 116.21 88.9
