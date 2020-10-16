@@ -159,6 +159,7 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac 11.678671 52.227882 47.9 287.79
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 11.679427 52.221379 40.9 244.49
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 11.679609 52.226108 42.27 287.83
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 11.681015 52.22341 40.22 266.06
+OBJECT_SHARED Models/Power/generic_pylon_25m.ac 11.661583 52.141387 41.58 350
 OBJECT_SHARED Models/Communications/tower-unstayed-200m-grey-unlit.xml 11.664573 52.15316 4.28 0
 OBJECT_SHARED Models/Communications/tower-unstayed-200m-grey-unlit.xml 11.664594 52.153186 4.29 0
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac 11.6474586 52.1262819 43.48 305.76

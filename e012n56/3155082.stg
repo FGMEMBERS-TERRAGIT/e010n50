@@ -64,3 +64,5 @@ OBJECT_SHARED Models/lib/deciduous-tree2.xml 12.58270 56.18702 5.43 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 12.58075 56.18403 3.88 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 12.58056 56.18407 3.87 0
 # END dsf2stg
+OBJECT_SHARED Models/Power/windturbine_V112_onshore.xml 12.576111111 56.231388889 105.52 180
+OBJECT_SHARED Models/Power/windturbine_V112_onshore.xml 12.576111111 56.235555556 105.91 180

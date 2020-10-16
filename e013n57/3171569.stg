@@ -10,3 +10,4 @@ OBJECT_SHARED Models/lib/SmHangar.ac 13.43062 57.87454 188.06 166.36
 OBJECT_SHARED Models/lib/SmHangar.ac 13.43040 57.87415 187.90 165.38
 OBJECT_SHARED Models/lib/SmHangar.ac 13.43030 57.87395 187.81 166.5
 # END dsf2stg
+OBJECT_SHARED Models/Communications/radio-medium.xml 13.4825 57.7525 262.17 180

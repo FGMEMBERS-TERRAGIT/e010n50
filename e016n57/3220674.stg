@@ -43,3 +43,13 @@ OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-East.ac 16.5751 57.0915333 -0.0
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-East.ac 16.6617139 57.0228188 -2.5 44.48
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-East.ac 16.6710833 57.1031 -0.81 312.87
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-West.ac 16.6863749 57.0136337 -2.35 123.82
+OBJECT_SHARED Models/Power/windturbine_V112_onshore.xml 16.513333333 57.0925 111.85 180
+OBJECT_SHARED Models/Power/windturbine_V112_onshore.xml 16.522222222 57.097222222 106.68 180
+OBJECT_SHARED Models/Power/windturbine_V112_onshore.xml 16.523333333 57.090277778 113.69 180
+OBJECT_SHARED Models/Power/windturbine_V112_onshore.xml 16.528888889 57.093333333 107.97 180
+OBJECT_SHARED Models/Power/windturbine_V112_onshore.xml 16.529444444 57.101111111 107.97 180
+OBJECT_SHARED Models/Power/windturbine_V112_onshore.xml 16.535277778 57.097222222 108.9 180
+OBJECT_SHARED Models/Power/windturbine_V112_onshore.xml 16.537222222 57.105277778 102.32 180
+OBJECT_SHARED Models/Power/windturbine_V112_onshore.xml 16.542222222 57.101111111 94.77 180
+OBJECT_SHARED Models/Power/windturbine_V112_onshore.xml 16.553333333 57.098333333 94.06 180
+OBJECT_SHARED Models/Power/windturbine_V112_onshore.xml 16.563333333 57.095277778 94.29 180

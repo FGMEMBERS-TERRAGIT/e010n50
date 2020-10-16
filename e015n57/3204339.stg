@@ -96,3 +96,4 @@ OBJECT_SHARED Models/lib/deciduous-tree2.xml 15.84122 57.86344 107.40 0
 OBJECT_SHARED Models/lib/deciduous-tree2.xml 15.83965 57.86302 107.86 0
 OBJECT_SHARED Models/lib/deciduous-tree2.xml 15.83982 57.86308 108.00 0
 # END dsf2stg
+OBJECT_SHARED Models/Communications/radio-medium.xml 15.944722222 57.841388889 106.25 180
