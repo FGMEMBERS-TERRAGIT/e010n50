@@ -4,3 +4,8 @@ OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac 11.0121404 55.9568196
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Yellow.ac 11 55.9125 -3.19 16.4
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-West.ac 11.0168423 55.8753311 -0.64 325.59
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-West.ac 11.0556524 55.929663 -1.72 169.94
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac 11.09053 55.90914 0.00 39.31
+# END dsf2stg

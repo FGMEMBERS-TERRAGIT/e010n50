@@ -2,3 +2,11 @@ OBJECT_SHARED Models/Power/windturbine.xml 11.1529363 55.1551665 7.69 180
 OBJECT_SHARED Models/Power/windturbine.xml 11.2411641 55.2412499 -0.23 180
 OBJECT_SHARED Models/Misc/generic_lighthouse.ac 11.133667 55.159833 0 180
 OBJECT_SHARED Models/Misc/generic_lighthouse.ac 11.208833 55.185833 0 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/farm19x12.ac 11.15225 55.15270 0.00 342.82
+OBJECT_SHARED Models/lib/garage-small-white.ac 11.15213 55.15261 8.93 342.22
+OBJECT_SHARED Models/lib/garage-small-white.ac 11.15196 55.15263 8.88 252.78
+OBJECT_SHARED Models/lib/farm19x12.ac 11.15184 55.15281 8.84 72.97
+# END dsf2stg

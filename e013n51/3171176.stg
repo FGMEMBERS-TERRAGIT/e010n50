@@ -5,3 +5,13 @@ OBJECT_SHARED Models/Power/windturbine.xml 13.2397222 51.6361111 84.02 180
 OBJECT_SHARED Models/Power/windturbine.xml 13.2461111 51.6447222 85.03 180
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml 13.0383333 51.7305556 -350.61 180
 OBJECT_SHARED Models/Misc/generic_church_03.ac 13.2355556 51.6913889 84.71 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/taxilight-HD-ww.ac 13.20715 51.68621 0.00 90
+OBJECT_SHARED Models/lib/taxilight-HD-ww.ac 13.20719 51.68624 81.50 90
+OBJECT_SHARED Models/lib/taxilight-HD-ww.ac 13.20723 51.68627 81.42 90
+OBJECT_SHARED Models/lib/taxilight-HD-ww.ac 13.20663 51.68597 81.45 90
+OBJECT_SHARED Models/lib/taxilight-HD-ww.ac 13.20656 51.68595 81.84 90
+OBJECT_SHARED Models/lib/taxilight-HD-ww.ac 13.20649 51.68593 81.84 90
+# END dsf2stg

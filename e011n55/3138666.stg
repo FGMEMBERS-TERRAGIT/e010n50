@@ -23,3 +23,13 @@ OBJECT_SHARED Models/Power/windturbine.xml 11.6987503 55.7447675 28.24 180
 OBJECT_SHARED Models/Power/windturbine.xml 11.6993192 55.6717282 26.41 180
 OBJECT_SHARED Models/Power/windturbine.xml 11.7013141 55.7451336 25.92 180
 OBJECT_SHARED Models/Power/windturbine.xml 11.7379588 55.6754294 35.12 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac 11.61202 55.65392 0.00 180.3
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 11.61121 55.65418 34.26 271.59
+OBJECT_SHARED Models/Transport/hatchback_black.ac 11.61128 55.65405 35.08 0
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 11.61138 55.65411 34.96 0
+OBJECT_SHARED Models/Transport/van_silver.ac 11.61146 55.65435 34.72 269.18
+OBJECT_SHARED Models/Transport/van_silver.ac 11.61133 55.65442 34.18 271.47
+# END dsf2stg

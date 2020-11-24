@@ -52,3 +52,8 @@ OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-East.ac 10.6795087 55.0229333 -
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-West.ac 10.5090869 55.0107391 -0.11 262.93
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-West.ac 10.6594649 55.037484 -0.01 72.3
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cardinal-West.ac 10.7003384 55.0001459 -0.97 89.34
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac 10.73459 55.07876 0.00 102.08
+# END dsf2stg

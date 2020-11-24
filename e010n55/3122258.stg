@@ -25,3 +25,11 @@ OBJECT_SHARED Models/Power/generic_pylon_100m.ac 10.500757 55.362951 18.6 180
 OBJECT_SHARED Models/Power/generic_pylon_100m.ac 10.50308 55.363896 19.06 180
 OBJECT_SHARED Models/Power/generic_pylon_100m.ac 10.503112 55.363628 19.29 180
 OBJECT_SHARED Models/Communications/cell-monopole1-75m.xml 10.50639 55.366838 -11.68 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 10.71592 55.28612 0.00 101.63
+OBJECT_SHARED Models/lib/SmHangar.ac 10.71597 55.28596 32.22 0.279999
+OBJECT_SHARED Models/Misc/picnic_table.ac 10.71354 55.28384 32.36 48.01
+OBJECT_SHARED Models/Misc/picnic_table.ac 10.71346 55.28385 35.77 91.06
+# END dsf2stg

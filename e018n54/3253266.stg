@@ -10,3 +10,10 @@ OBJECT_SHARED Models/Power/windturbine.xml 18.744277778 54.309944444 -2.95 75
 OBJECT_SHARED Models/Power/windturbine.xml 18.746527778 54.294694444 -2.2 75
 OBJECT_SHARED Models/Power/windturbine.xml 18.749305556 54.293194444 -2.85 75
 OBJECT_SHARED Models/Airport/marker.ac 18.596075 54.345158 46.64 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 18.50245 54.36818 136.58 160.35
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 18.50258 54.36819 132.28 102.27
+OBJECT_SHARED Models/lib/deciduous-tree2.xml 18.50248 54.36832 132.01 23.63
+# END dsf2stg

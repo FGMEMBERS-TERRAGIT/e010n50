@@ -17,3 +17,10 @@ OBJECT_SHARED Models/Power/windturbine.xml 16.725611111 54.500722222 44.65 75
 OBJECT_SHARED Models/Power/windturbine.xml 16.729333333 54.503305556 44.48 75
 OBJECT_SHARED Models/Power/windturbine.xml 16.735388889 54.500722222 46.4 75
 OBJECT_SHARED Models/Power/windturbine.xml 16.741361111 54.500805556 43.08 75
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 16.60684 54.55024 0.00 210.43
+OBJECT_SHARED Models/lib/transformer3x3.ac 16.61340 54.54942 1.45 187.97
+OBJECT_SHARED Models/lib/hangarUL10x30.ac 16.61089 54.55020 -0.13 294.3
+# END dsf2stg

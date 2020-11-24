@@ -30,3 +30,13 @@ OBJECT_SHARED Models/Commercial/generic_skyscraper_04.ac 10.664334 55.450972 -45
 OBJECT_SHARED Models/Misc/generic_church_02.ac 10.658122 55.448697 3.69 180
 OBJECT_SHARED Models/Industrial/GenericPressureVessel10m.xml 10.657972 55.444772 1.87 180
 OBJECT_SHARED Models/Maritime/Misc/odense_staalskibsvaerfts_kran.xml 10.5270889 55.4654869 -2.2 48
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml 10.59604 55.45231 0.00 88.88
+OBJECT_SHARED Models/lib/lamp10m.xml 10.59567 55.45230 7.07 110.56
+OBJECT_SHARED Models/Transport/van_silver.ac 10.59618 55.45241 7.14 270
+OBJECT_SHARED Models/lib/SmHangar.ac 10.59587 55.45230 6.83 90
+OBJECT_SHARED Models/Misc/picnic_table.ac 10.59873 55.45514 7.08 335.98
+OBJECT_SHARED Models/Misc/picnic_table.ac 10.59875 55.45516 -0.59 333.44
+# END dsf2stg

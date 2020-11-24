@@ -48,3 +48,15 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac 10.996488 52.204866 124.6 116.68
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 10.997336 52.202019 134.96 105.11
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 10.998194 52.200565 139.08 109.88
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 10.999986 52.202131 134.83 241.28
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/van_silver.ac 10.98555 52.23420 0.00 108
+OBJECT_SHARED Models/Transport/hatchback_black.ac 10.98553 52.23423 110.32 113.88
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 10.98514 52.23419 110.32 111.89
+OBJECT_SHARED Models/Misc/picnic_table.ac 10.98524 52.23406 109.45 25.92
+OBJECT_SHARED Models/Misc/picnic_table.ac 10.98526 52.23403 109.82 26.47
+OBJECT_SHARED Models/StreetFurniture/Litter_Bin.ac 10.98548 52.23424 110.18 0
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 10.98502 52.23415 110.32 67.02
+OBJECT_SHARED Models/Trees/billboard-tree.xml 10.98330 52.23593 109.39 0
+# END dsf2stg
